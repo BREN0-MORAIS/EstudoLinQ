@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v5.0": {
       "AluraTunes/1.0.0": {
         "dependencies": {
-          "EntityFramework": "5.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
@@ -16,14 +15,6 @@
         },
         "runtime": {
           "AluraTunes.dll": {}
-        }
-      },
-      "EntityFramework/5.0.0": {
-        "runtime": {
-          "lib/net45/EntityFramework.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20627.0"
-          }
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -1077,13 +1068,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "EntityFramework/5.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-WYfgJWKg/RjwU8pzZkImD9DsV+J1nqDcIGp1S0/bdnElKBmAaUC2nmq/QQAcco32KyQQWnLgJNiDzIOz2xWFbQ==",
-      "path": "entityframework/5.0.0",
-      "hashPath": "entityframework.5.0.0.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",

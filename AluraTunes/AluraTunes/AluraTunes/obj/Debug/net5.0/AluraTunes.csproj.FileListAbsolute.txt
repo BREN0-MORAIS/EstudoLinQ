@@ -5,7 +5,6 @@ C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\Alur
 C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\AluraTunes.dll
 C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\ref\AluraTunes.dll
 C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\AluraTunes.pdb
-C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\EntityFramework.dll
 C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\Humanizer.dll
 C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
