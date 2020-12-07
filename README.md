@@ -1,5 +1,5 @@
 # EstudoLinQ 📁
-<b>📄Descrição: </b>
+<b>📄Descrição: </b>Consultas Com LinQ parecidas com SQL no C#
 
 <h2>:checkered_flag:Tecnologias Utilizadas</h2>
 <br>
