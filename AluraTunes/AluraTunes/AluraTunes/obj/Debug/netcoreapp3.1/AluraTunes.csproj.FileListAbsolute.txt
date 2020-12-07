@@ -1,0 +1,13 @@
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\netcoreapp3.1\AluraTunes.exe
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\netcoreapp3.1\AluraTunes.deps.json
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\netcoreapp3.1\AluraTunes.runtimeconfig.json
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\netcoreapp3.1\AluraTunes.runtimeconfig.dev.json
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\netcoreapp3.1\AluraTunes.dll
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\bin\Debug\netcoreapp3.1\AluraTunes.pdb
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.csprojAssemblyReference.cache
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.AssemblyInfoInputs.cache
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.AssemblyInfo.cs
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.csproj.CoreCompileInputs.cache
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.dll
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.pdb
+C:\DESENVOLVEDOR\CÓDIGO FONTE\EstudosLinQ\EstudoLinQ\AluraTunes\AluraTunes\AluraTunes\obj\Debug\netcoreapp3.1\AluraTunes.genruntimeconfig.cache
