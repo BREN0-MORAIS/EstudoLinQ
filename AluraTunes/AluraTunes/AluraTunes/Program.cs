@@ -1,5 +1,7 @@
 ﻿using Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,18 +10,85 @@ using System.Xml.Linq;
 
 namespace AluraTunes
 {
-  
-    static class  Program
+
+    static class Program
     {
-        public static  AppDbContext _context = new AppDbContext();
+        public static AppDbContext _context = new AppDbContext();
         static void Main(string[] args)
         {
-           
 
-             
+            var query = from l in _context.Lanches
+                        where l.Nome.Contains("c")
+                        group l by l.Nome into agrupado
+                        select agrupado.Key;
+
+            //foreach (var item in query)
+            //{
+            //    if (textoBuscar != null)
+            //    {
+            //        Console.WriteLine(item.Nome);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Lanche Não encontrado");
+            //    }
+            //}
+
+            Console.WriteLine(query);
+        
 
         }
 
+        public static void ContarQuantidadeItens()
+        {
+            var query = from l in _context.Lanches
+                        where l.Nome.Contains("C")
+                        select l;
+
+            var quantidade = _context.Lanches.Count(a => a.Nome.Contains("a"));
+
+            Console.WriteLine(quantidade);
+
+        }
+
+
+        public static void Filtro2()
+        {
+            var query = from l in
+                            _context.Lanches select l;
+
+            foreach (var item in query)
+            {
+
+                Console.WriteLine(item.LancheId + "" + item.Nome);
+            }
+
+            Console.ReadKey();
+
+        }
+        public static void Filtrando()
+        {
+            Console.WriteLine("Digite o Texto:");
+            var textoBuscar = Console.ReadLine();
+
+            var query = from l in _context.Lanches
+                        where l.Nome.Contains(textoBuscar)
+                        select l;
+
+            foreach (var item in query)
+            {
+                if (textoBuscar != null)
+                {
+                    Console.WriteLine(item.Nome);
+                }
+                else
+                {
+                    Console.WriteLine("Lanche Não encontrado");
+                }
+            }
+
+            Console.ReadKey();
+        }
         public static void ConsultasComJoin()
         {
             //_context.Database.Log = Console.WriteLine();
